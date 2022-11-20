@@ -1,0 +1,10 @@
+﻿  Kaynak.c
+C:\Users\eray\source\repos\Pointer-3\Pointer-3\Kaynak.c(9,12): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\eray\source\repos\Pointer-3\Pointer-3\Kaynak.c(9,12): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+C:\Users\eray\source\repos\Pointer-3\Pointer-3\Kaynak.c(12,12): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\eray\source\repos\Pointer-3\Pointer-3\Kaynak.c(12,12): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+C:\Users\eray\source\repos\Pointer-3\Pointer-3\Kaynak.c(15,12): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\eray\source\repos\Pointer-3\Pointer-3\Kaynak.c(15,12): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+C:\Users\eray\source\repos\Pointer-3\Pointer-3\Kaynak.c(18,12): warning C4477: 'printf' : '%x' biçim dizesi 'unsigned int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'char *'
+C:\Users\eray\source\repos\Pointer-3\Pointer-3\Kaynak.c(18,12): warning C4313: 'printf': biçim dizesindeki '%x', 1 bağımsız değişkeniyle (türü 'char *') çakışıyor
+  Pointer-3.vcxproj -> C:\Users\eray\source\repos\Pointer-3\x64\Debug\Pointer-3.exe
